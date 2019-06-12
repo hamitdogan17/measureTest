@@ -1,0 +1,694 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="043ff601-0312-4065-a2dd-2d3fb4cc1ab9" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tmob_measure/src/testscenarioexample/ArıkovanıWebsite.feature" afterDir="false" />
+    </list>
+    <ignored path="$PROJECT_DIR$/tmob_measure/target/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/tmob_measure/src/testscenarioexample/MailProcess.feature">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="60">
+              <caret line="4" column="62" selection-start-line="4" selection-start-column="62" selection-end-line="4" selection-end-column="62" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/tmob_measure/src/testscenarioexample/AddtoFavorittes.feature">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="60">
+              <caret line="4" column="8" selection-start-line="4" selection-start-column="8" selection-end-line="4" selection-end-column="38" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/tmob_measure/src/testscenarioexample/ArıkovanıWebsite.feature">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1200">
+              <caret line="80" column="8" selection-start-line="80" selection-start-column="8" selection-end-line="80" selection-end-column="45" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/tmob_measure/src/test/resources/stepdefinations/UserLogin.feature">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="180">
+              <caret line="12" selection-start-line="12" selection-end-line="12" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/tmob_measure/src/test/java/runner/TestRunner.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="210">
+              <caret line="14" column="1" lean-forward="true" selection-start-line="14" selection-start-column="1" selection-end-line="14" selection-end-column="1" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/tmob_measure/src/test/java/stepdefinations/Scenarios.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-1925">
+              <caret line="43" column="9" lean-forward="true" selection-start-line="43" selection-start-column="9" selection-end-line="43" selection-end-column="9" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/tmob_measure/src/test/resources/testng.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="120">
+              <caret line="8" column="8" selection-start-line="8" selection-start-column="8" selection-end-line="8" selection-end-column="8" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>mvn</find>
+      <find>cucumber.api.java</find>
+      <find>chrome</find>
+      <find>google</find>
+      <find>testng</find>
+      <find>fieldValue</find>
+      <find>submit</find>
+      <find>caglar</find>
+      <find>nAVİGATETO</find>
+      <find>email</find>
+      <find>eposta</find>
+      <find>Eposta</find>
+      <find>scree</find>
+      <find>popup</find>
+      <find>Fill e-mail  textbox as</find>
+      <find>pop</find>
+      <find>exit</find>
+      <find>Click to bu</find>
+      <find>Enter text</find>
+      <find>given</find>
+      <find>Enter email and password</find>
+      <find>Check parsley-errors-list</find>
+      <find>Then</find>
+      <find>message</find>
+      <find>Enter name and surname</find>
+      <find>Enter</find>
+    </findStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/usecases/usecaserun.sh" />
+        <option value="$PROJECT_DIR$/usecases/measure run komut.rtf" />
+        <option value="$PROJECT_DIR$/tmob-measure-278253b20811/src/test/java/runner/TestRunner.java" />
+        <option value="$PROJECT_DIR$/tmob-measure-278253b20811/src/test/java/testng.xml" />
+        <option value="$PROJECT_DIR$/tmob-measure-278253b20811/src/test/java/stepdefinations/Scenarios.java" />
+        <option value="$PROJECT_DIR$/tmob-measure-278253b20811/src/test/resources/testng.xml" />
+        <option value="$PROJECT_DIR$/tmob-measure-278253b20811/pom.xml" />
+        <option value="$PROJECT_DIR$/tmob_measure/pom.xml" />
+        <option value="$PROJECT_DIR$/tmob_measure/src/test/resources/TestNG" />
+        <option value="$PROJECT_DIR$/tmob_measure/src/test/resources/stepdefinations/MailProcess.feature" />
+        <option value="$PROJECT_DIR$/tmob_measure/src/test/resources/testng.xml" />
+        <option value="$PROJECT_DIR$/tmob_measure/src/test/resources/stepdefinations/AddtoFavorittes.feature" />
+        <option value="$PROJECT_DIR$/tmob_measure/src/test/java/runner/TestRunner.java" />
+        <option value="$PROJECT_DIR$/usecases/usecases.sh" />
+        <option value="$PROJECT_DIR$/tmob_measure/src/testscenarioexample/UserLogin.feature" />
+        <option value="$PROJECT_DIR$/tmob_measure/src/test/resources/stepdefinations/ArıkovanıWebsite.feature" />
+        <option value="$PROJECT_DIR$/tmob_measure/src/test/resources/stepdefinations/ArikovaniWebsite.feature" />
+        <option value="$PROJECT_DIR$/tmob_measure/src/testscenarioexample/ArıkovanıWebsite.feature" />
+        <option value="$PROJECT_DIR$/tmob_measure/src/test/java/stepdefinations/Scenarios.java" />
+        <option value="$PROJECT_DIR$/tmob_measure/src/test/resources/stepdefinations/UserLogin.feature" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenProjectNavigator">
+    <treeState>
+      <expand>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="cucumberframework" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+        </path>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="cucumberframework" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+          <item name="Lifecycle" type="58874e2:MavenProjectsStructure$LifecycleNode" />
+        </path>
+      </expand>
+      <select />
+    </treeState>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6" fullScreen="true">
+    <option name="width" value="1280" />
+    <option name="height" value="800" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="Measure_Turkcell_Ericcson_Tmob" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Measure_Turkcell_Ericcson_Tmob" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Measure_Turkcell_Ericcson_Tmob" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Measure_Turkcell_Ericcson_Tmob" type="462c0819:PsiDirectoryNode" />
+              <item name="tmob_measure" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Measure_Turkcell_Ericcson_Tmob" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Measure_Turkcell_Ericcson_Tmob" type="462c0819:PsiDirectoryNode" />
+              <item name="tmob_measure" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Measure_Turkcell_Ericcson_Tmob" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Measure_Turkcell_Ericcson_Tmob" type="462c0819:PsiDirectoryNode" />
+              <item name="tmob_measure" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Measure_Turkcell_Ericcson_Tmob" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Measure_Turkcell_Ericcson_Tmob" type="462c0819:PsiDirectoryNode" />
+              <item name="tmob_measure" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Measure_Turkcell_Ericcson_Tmob" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Measure_Turkcell_Ericcson_Tmob" type="462c0819:PsiDirectoryNode" />
+              <item name="tmob_measure" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Measure_Turkcell_Ericcson_Tmob" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Measure_Turkcell_Ericcson_Tmob" type="462c0819:PsiDirectoryNode" />
+              <item name="tmob_measure" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+              <item name="stepdefinations" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Measure_Turkcell_Ericcson_Tmob" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Measure_Turkcell_Ericcson_Tmob" type="462c0819:PsiDirectoryNode" />
+              <item name="tmob_measure" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="testscenarioexample" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Measure_Turkcell_Ericcson_Tmob" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Measure_Turkcell_Ericcson_Tmob" type="462c0819:PsiDirectoryNode" />
+              <item name="usecases" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1556538849680" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="configurable.group.appearance" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/tmob-measure-278253b20811/src/test/java" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/tmob_measure/src/testscenarioexample" />
+      <recent name="$PROJECT_DIR$/tmob_measure/src/test/resources/stepdefinations" />
+      <recent name="$PROJECT_DIR$/usecases" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="TestNG./Users/tmobykadioglu/Desktop/TMOB/Measure_Turkcell_Ericcson_Tmob/tmob-measure-278253b20811/src/test/resources/testng.xml">
+    <configuration name="WordToFeature.jar" type="JarApplication" factoryName="JAR Application" temporary="true">
+      <option name="JAR_PATH" value="$PROJECT_DIR$/usecases/WordToFeature.jar" />
+      <method v="2" />
+    </configuration>
+    <configuration name="/Users/tmobykadioglu/Desktop/TMOB/Measure_Turkcell_Ericcson_Tmob/tmob-measure-278253b20811/src/test/resources/testng.xml" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="Measure_Turkcell_Ericcson_Tmob" />
+      <option name="SUITE_NAME" value="$PROJECT_DIR$/tmob-measure-278253b20811/src/test/resources/testng.xml" />
+      <option name="TEST_OBJECT" value="SUITE" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="UserLogin.feature" type="substepsFeature" factoryName="Substeps Feature" temporary="true" show_console_on_std_err="false" show_console_on_std_out="false">
+      <module name="" />
+      <option name="allowRunningInParallel" value="false" />
+      <option name="model">
+        <SubstepsRunnerConfigurationModel>
+          <option name="classPathString" />
+          <option name="homePath" />
+          <option name="modulePath" value="$PROJECT_DIR$/.idea/Measure_Turkcell_Ericcson_Tmob.iml" />
+          <option name="myListener" />
+          <option name="nonStrictKeywordPrecedence" />
+          <option name="pathToFeature" value="$PROJECT_DIR$/usecases/UserLogin.feature" />
+          <option name="scenarioName" />
+          <option name="stepImplentationClassNames" />
+          <option name="strict" value="false" />
+          <option name="subStepDefinitionDirectory" />
+          <option name="tags" />
+          <option name="versionString" />
+          <option name="workingDir" value="$PROJECT_DIR$/.idea" />
+        </SubstepsRunnerConfigurationModel>
+      </option>
+      <option name="classPathString" />
+      <option name="homePath" />
+      <option name="modulePath" value="$PROJECT_DIR$/.idea/Measure_Turkcell_Ericcson_Tmob.iml" />
+      <option name="myListener" />
+      <option name="nonStrictKeywordPrecedence" />
+      <option name="pathToFeature" value="$PROJECT_DIR$/usecases/UserLogin.feature" />
+      <option name="scenarioName" />
+      <option name="stepImplentationClassNames" />
+      <option name="strict" value="false" />
+      <option name="subStepDefinitionDirectory" />
+      <option name="tags" />
+      <option name="versionString" />
+      <option name="workingDir" value="$PROJECT_DIR$/.idea" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="TestNG./Users/tmobykadioglu/Desktop/TMOB/Measure_Turkcell_Ericcson_Tmob/tmob-measure-278253b20811/src/test/resources/testng.xml" />
+        <item itemvalue="Substeps Feature.UserLogin.feature" />
+        <item itemvalue="JAR Application.WordToFeature.jar" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="043ff601-0312-4065-a2dd-2d3fb4cc1ab9" name="Default Changelist" comment="" />
+      <created>1550750980689</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1550750980689</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="TestHistory">
+    <history-entry file="_Users_tmobykadioglu_Desktop_TMOB_Measure_Turkcell_Ericcson_Tmob_tmob-measure-278253b20811_src_test_resources_testng_xml - 2019.02.21 at 16h 16m 59s.xml">
+      <configuration name="/Users/tmobykadioglu/Desktop/TMOB/Measure_Turkcell_Ericcson_Tmob/tmob-measure-278253b20811/src/test/resources/testng.xml" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="_Users_tmobykadioglu_Desktop_TMOB_Measure_Turkcell_Ericcson_Tmob_tmob-measure-278253b20811_src_test_resources_testng_xml - 2019.02.21 at 16h 23m 47s.xml">
+      <configuration name="/Users/tmobykadioglu/Desktop/TMOB/Measure_Turkcell_Ericcson_Tmob/tmob-measure-278253b20811/src/test/resources/testng.xml" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="_Users_tmobykadioglu_Desktop_TMOB_Measure_Turkcell_Ericcson_Tmob_tmob-measure-278253b20811_src_test_resources_testng_xml - 2019.02.25 at 10h 54m 32s.xml">
+      <configuration name="/Users/tmobykadioglu/Desktop/TMOB/Measure_Turkcell_Ericcson_Tmob/tmob-measure-278253b20811/src/test/resources/testng.xml" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="_Users_tmobykadioglu_Desktop_TMOB_Measure_Turkcell_Ericcson_Tmob_tmob-measure-278253b20811_src_test_resources_testng_xml - 2019.02.25 at 11h 02m 46s.xml">
+      <configuration name="/Users/tmobykadioglu/Desktop/TMOB/Measure_Turkcell_Ericcson_Tmob/tmob-measure-278253b20811/src/test/resources/testng.xml" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="_Users_tmobykadioglu_Desktop_TMOB_Measure_Turkcell_Ericcson_Tmob_tmob-measure-278253b20811_src_test_resources_testng_xml - 2019.02.25 at 11h 10m 30s.xml">
+      <configuration name="/Users/tmobykadioglu/Desktop/TMOB/Measure_Turkcell_Ericcson_Tmob/tmob-measure-278253b20811/src/test/resources/testng.xml" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="_Users_tmobykadioglu_Desktop_TMOB_Measure_Turkcell_Ericcson_Tmob_tmob-measure-278253b20811_src_test_resources_testng_xml - 2019.02.25 at 11h 12m 23s.xml">
+      <configuration name="/Users/tmobykadioglu/Desktop/TMOB/Measure_Turkcell_Ericcson_Tmob/tmob-measure-278253b20811/src/test/resources/testng.xml" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="_Users_tmobykadioglu_Desktop_TMOB_Measure_Turkcell_Ericcson_Tmob_tmob-measure-278253b20811_src_test_resources_testng_xml - 2019.02.25 at 11h 12m 29s.xml">
+      <configuration name="/Users/tmobykadioglu/Desktop/TMOB/Measure_Turkcell_Ericcson_Tmob/tmob-measure-278253b20811/src/test/resources/testng.xml" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="_Users_tmobykadioglu_Desktop_TMOB_Measure_Turkcell_Ericcson_Tmob_tmob-measure-278253b20811_src_test_resources_testng_xml - 2019.02.25 at 11h 23m 02s.xml">
+      <configuration name="/Users/tmobykadioglu/Desktop/TMOB/Measure_Turkcell_Ericcson_Tmob/tmob-measure-278253b20811/src/test/resources/testng.xml" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="_Users_tmobykadioglu_Desktop_TMOB_Measure_Turkcell_Ericcson_Tmob_tmob-measure-278253b20811_src_test_resources_testng_xml - 2019.02.25 at 12h 05m 13s.xml">
+      <configuration name="/Users/tmobykadioglu/Desktop/TMOB/Measure_Turkcell_Ericcson_Tmob/tmob-measure-278253b20811/src/test/resources/testng.xml" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="_Users_tmobykadioglu_Desktop_TMOB_Measure_Turkcell_Ericcson_Tmob_tmob-measure-278253b20811_src_test_resources_testng_xml - 2019.04.29 at 10h 48m 00s.xml">
+      <configuration name="/Users/tmobykadioglu/Desktop/TMOB/Measure_Turkcell_Ericcson_Tmob/tmob-measure-278253b20811/src/test/resources/testng.xml" configurationId="TestNG" />
+    </history-entry>
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="0" y="0" width="1280" height="800" extended-state="6" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.89863014" visible="true" weight="0.35864297" />
+      <window_info id="Structure" order="1" sideWeight="0.101369865" side_tool="true" visible="true" weight="0.35864297" />
+      <window_info id="Image Layers" order="2" />
+      <window_info id="Designer" order="3" />
+      <window_info id="UI Designer" order="4" />
+      <window_info id="Capture Tool" order="5" />
+      <window_info id="Favorites" order="6" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32876712" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.4831683" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" weight="0.47029704" />
+      <window_info anchor="bottom" id="Terminal" order="7" weight="0.32970297" />
+      <window_info anchor="bottom" id="Event Log" order="8" side_tool="true" />
+      <window_info anchor="bottom" id="Version Control" order="9" />
+      <window_info anchor="bottom" id="Messages" order="10" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.10258482" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Capture Analysis" order="4" />
+      <window_info anchor="right" id="Theme Preview" order="5" />
+      <window_info anchor="right" id="Maven" order="6" visible="true" weight="0.11793215" />
+      <window_info anchor="right" id="Palette&#9;" order="7" />
+    </layout>
+  </component>
+  <component name="antWorkspaceConfiguration">
+    <option name="IS_AUTOSCROLL_TO_SOURCE" value="false" />
+    <option name="FILTER_TARGETS" value="false" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/usecases/measure run komut.rtf">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="9" column="86" selection-start-line="9" selection-start-column="86" selection-end-line="9" selection-end-column="86" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tmob-measure-278253b20811/target/advanced-reports/cucumber-html-reports/overview-features.html" />
+    <entry file="file://$PROJECT_DIR$/.idea/Measure_Turkcell_Ericcson_Tmob.iml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_191.jdk/Contents/Home/src.zip!/java/lang/ClassLoader.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="124">
+          <caret line="762" selection-start-line="762" selection-end-line="762" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_191.jdk/Contents/Home/src.zip!/java/security/SecureClassLoader.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="124">
+          <caret line="141" selection-start-line="141" selection-end-line="141" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_191.jdk/Contents/Home/src.zip!/java/net/URLClassLoader.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="124">
+          <caret line="73" selection-start-line="73" selection-end-line="73" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tmob-measure-278253b20811/target/advanced-reports/CucumberTestReport.json" />
+    <entry file="file://$PROJECT_DIR$/tmob-measure-278253b20811/src/test/resources/stepdefinations/UserLogin.feature" />
+    <entry file="file://$PROJECT_DIR$/tmob-measure-278253b20811/src/test/java/testng.xml" />
+    <entry file="file://$PROJECT_DIR$/tmob-measure-278253b20811/cucumberframework.iml" />
+    <entry file="file://$PROJECT_DIR$/tmob-measure-278253b20811/pom.xml" />
+    <entry file="file://$PROJECT_DIR$/tmob-measure-278253b20811/src/test/resources/testng.xml" />
+    <entry file="file://$PROJECT_DIR$/tmob-measure-278253b20811/src/test/java/stepdefinations/Scenarios.java" />
+    <entry file="file://$PROJECT_DIR$/tmob-measure-278253b20811/src/test/java/runner/TestRunner.java" />
+    <entry file="file://$PROJECT_DIR$/tmob_measure/src/test/resources/TestNG" />
+    <entry file="jar://$MAVEN_REPOSITORY$/info/cukes/cucumber-testng/1.2.5/cucumber-testng-1.2.5.jar!/cucumber/api/testng/FeatureResultListener.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="126">
+          <caret line="20" column="11" selection-start-line="20" selection-start-column="11" selection-end-line="20" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/info/cukes/cucumber-testng/1.2.5/cucumber-testng-1.2.5.jar!/cucumber/api/testng/TestNGCucumberRunner.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="28" column="11" selection-start-line="28" selection-start-column="11" selection-end-line="28" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/seleniumhq/selenium/selenium-api/3.1.0/selenium-api-3.1.0.jar!/org/openqa/selenium/By.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="390">
+          <caret line="37" column="21" selection-start-line="37" selection-start-column="21" selection-end-line="37" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/ykadioglu/tmob-measure-278253b20811/src/test/java/runner/TestRunner.java" />
+    <entry file="file://$USER_HOME$/ykadioglu/tmob-measure-278253b20811/src/test/java/stepdefinations/Scenarios.java" />
+    <entry file="jar://$MAVEN_REPOSITORY$/org/seleniumhq/selenium/selenium-api/3.1.0/selenium-api-3.1.0-sources.jar!/org/openqa/selenium/WebElement.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="765">
+          <caret line="66" column="7" selection-start-line="66" selection-start-column="7" selection-end-line="66" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/seleniumhq/selenium/selenium-api/3.1.0/selenium-api-3.1.0-sources.jar!/org/openqa/selenium/By.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="750">
+          <caret line="74" column="19" selection-start-line="74" selection-start-column="19" selection-end-line="74" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/usecases/UserLogin.feature" />
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_191.jdk/Contents/Home/src.zip!/java/lang/String.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="186">
+          <caret line="110" column="19" selection-start-line="110" selection-start-column="19" selection-end-line="110" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tmob_measure/src/test/resources/stepdefinations/selector.properties">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/usecases/usecases.sh">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="8" selection-start-line="8" selection-end-line="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tmob_measure/src/test/resources/stepdefinations/AddtoFavorittes.feature" />
+    <entry file="file://$PROJECT_DIR$/tmob_measure/src/test/resources/stepdefinations/MailProcess.feature" />
+    <entry file="file://$PROJECT_DIR$/usecases/usecaserun.sh">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="6" column="93" selection-start-line="6" selection-start-column="93" selection-end-line="6" selection-end-column="93" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tmob_measure/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1530">
+          <caret line="102" column="51" selection-start-line="102" selection-start-column="51" selection-end-line="102" selection-end-column="51" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Downloads/ArıkovanıWebsite.feature">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="4" column="49" lean-forward="true" selection-start-line="4" selection-start-column="49" selection-end-line="4" selection-end-column="49" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tmob_measure/src/testscenarioexample/MailProcess.feature">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="4" column="62" selection-start-line="4" selection-start-column="62" selection-end-line="4" selection-end-column="62" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tmob_measure/src/testscenarioexample/AddtoFavorittes.feature">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="4" column="8" selection-start-line="4" selection-start-column="8" selection-end-line="4" selection-end-column="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tmob_measure/src/test/resources/stepdefinations/UserLogin.feature">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="12" selection-start-line="12" selection-end-line="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tmob_measure/src/test/java/runner/TestRunner.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="14" column="1" lean-forward="true" selection-start-line="14" selection-start-column="1" selection-end-line="14" selection-end-column="1" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tmob_measure/src/test/java/stepdefinations/Scenarios.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1925">
+          <caret line="43" column="9" lean-forward="true" selection-start-line="43" selection-start-column="9" selection-end-line="43" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tmob_measure/src/test/resources/testng.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="8" column="8" selection-start-line="8" selection-start-column="8" selection-end-line="8" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tmob_measure/src/testscenarioexample/ArıkovanıWebsite.feature">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1200">
+          <caret line="80" column="8" selection-start-line="80" selection-start-column="8" selection-end-line="80" selection-end-column="45" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>No facets are configured</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>1.8.0_191</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>cucumberframework</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+                <option value="0.6" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>1.8.0_191</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>Maven: cglib:cglib-nodep:3.2.4</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ScopeChooserConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+  <component name="mavenExecuteGoalHistory">
+    <option value="" />
+  </component>
+</project>
